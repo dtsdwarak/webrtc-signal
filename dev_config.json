@@ -2,7 +2,7 @@
     "isDev": true,
     "logLevel": 3,
     "server": {
-        "port": process.env.PORT,
+        "port": 80,
         "secure": false, /* whether this connects via https */
         "key": null,
         "cert": null,
